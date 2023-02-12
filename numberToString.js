@@ -1,4 +1,4 @@
-function numberTroString()
+function numberToString()
 {
     var Entre='[1,2,3,4,5,6,7,8,9,10]';
 
@@ -8,4 +8,4 @@ function numberTroString()
 
     console.log("Sortie : ",Sortie);
 }
-numberTroString();
+numberToString();
